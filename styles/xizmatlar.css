@@ -1,0 +1,206 @@
+px.main .page_title_wrapper{
+    width: 100%;
+    min-height: 284px;
+}
+
+.main{
+    margin-top: 56px;
+}
+
+.main .page_title_wrapper .page_title_wrapper_content{
+    padding: 72px 0;
+    background: #FFFFFF;
+
+}
+
+.main .page_title_wrapper .page_title_wrapper_content .title{
+    width: 194px;
+    min-height: 52px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: Bold;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    color: #000000;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+
+.main .page_title_wrapper .page_title_wrapper_content .text{
+    max-width: 800px;
+    min-height: 72px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: Bold;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #000000;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main .services_inner{
+    width: 100%;
+    min-height: 2274px;
+    padding: 80px 0;
+    background: #F4F4F4;
+}
+
+.main .services_inner .carts{
+    max-width: 804px;
+    min-height: 2114px;
+    margin: 0 auto;
+}
+
+.main .services_inner .carts .cart{
+    max-width: 804px;
+    min-height: 378px;
+    border-radius: 5px;
+    padding: 32px;
+    box-shadow: 0 10px 16px rgba(0, 0, 0, 0.12);
+    background: #FFFFFF;
+    display: flex;
+    margin-bottom: 96px;
+    /* flex-wrap: wrap; */
+}
+
+.main .services_inner .carts .cart .cart_left{
+    width: 200px;
+    height: 128.21px;
+    margin-right: 40px;
+}
+
+.main .services_inner .carts .cart .cart_left img{
+    width: 200px;
+    height: 128.21px;
+}
+
+.main .services_inner .carts .cart .cart_right{
+    max-width: 500px;
+    min-height: 314px;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_name{
+    width: auto;
+    height: 26px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: Bold;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_info{
+    max-width: 500px;
+    min-height: 48px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: Regular;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_types{
+    width: auto;
+    height: auto;
+    margin-bottom: 16px;
+    /* border: 2px solid olive; */
+}
+
+.main .services_inner .carts .cart .cart_right .cart_types .cart_type{
+    width: auto;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: Regular;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+    text-align: left;
+    margin-bottom: 8px;
+    /* border: 2px solid red; */
+    /* border: 2px dotted gold; */
+}
+.main .services_inner .carts .cart .cart_right .cart_types .cart_type .sircle{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: #00BAFC;
+    margin-right: 8px;
+}
+
+
+
+
+.main .services_inner .carts .cart .cart_right .cart_footer{
+    width: auto;
+    min-height:40px ;
+    display: flex;
+    align-items: center;
+    /* border: 2px solid green; */
+}
+
+
+
+.main .services_inner .carts .cart .cart_right .cart_footer .button{
+    width: 167px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin-right: 16px;
+    background: #00BAFC;
+    outline: none;
+    border: 3px solid #00BAFC;
+    transition: all .3s linear;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_footer .button:hover{
+    background: #FFFFFF;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_footer .button:active{
+    background: #00b9fc9a;
+}
+
+
+.main .services_inner .carts .cart .cart_right .cart_footer .button  .buyrtma-berish{
+    font-family: 'Open Sans', sans-serif;
+    font-style: Bold;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    transition: all .3s linear;
+    
+    
+}
+
+.main .services_inner .carts .cart .cart_right .cart_footer .button:hover .buyrtma-berish{
+    color: #00BAFC;
+}
+
+.main .services_inner .carts .cart .cart_right .cart_footer .batafsil{
+    width: 150px;
+    height: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-style:  Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #00BAFC;
+    transition: all .3s linear;
+}
+
+
